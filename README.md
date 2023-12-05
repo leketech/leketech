@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @leketech
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+.I'm Aduraleke 
+.I'm a Cloud engineer/GenAi engineer
+.🌱 I’m currently learning vision Api,speech and Chatbot creation.
+.💞️ I’m looking to collaborate with communities and challenges that will sharpen my skills
+.📫 How to reach me is on linkedin.com/in/aduraleke-akintade-b4b6a4233
 
-<!---
-leketech/leketech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
